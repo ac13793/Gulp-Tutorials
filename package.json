@@ -21,6 +21,8 @@
   "homepage": "https://github.com/ac13793/Gulp-Tutorials#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-uglify": "^2.0.0",
     "gulp-useref": "^3.1.2"
   }
 }
